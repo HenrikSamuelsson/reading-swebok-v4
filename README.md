@@ -11,6 +11,33 @@ The guide comes in several versions. The notes here are based on SWEBOK v4.0, th
 ### Acronyms
 
 | Acronym | Meaning                                                           |
-| ------- | ------------------------------------------------------------------|
+| ------- | ----------------------------------------------------------------- |
 | KA      | Knowledge Area                                                    |
 | SWEBOK  | Software Engineering Body of Knowledge                            |
+
+### Knowledge Areas
+
+The content of the guide is split into 18 *knowledge areas* (KA), all being identified as being relevant to the field of software engineering.
+
+| The 18 SWEBOK KA's                                                          |
+| --------------------------------------------------------------------------- |
+| 1. Software Requirements                                                    |
+| 2. Software Architecture                                                    |
+| 3. Software Design                                                          |
+| 4. Software Construction                                                    |
+| 5. Software Testing                                                         |
+| 6. Software Engineering Operations                                          |
+| 7. Software Maintenance                                                     |
+| 8. Software Configuration Management                                        |
+| 9. Software Engineering Management                                          |
+| 10. Software Engineering Process                                            |
+| 11. Software Engineering Models and Methods                                 |
+| 12. Software Quality                                                        |
+| 13. Software Security                                                       |
+| 14. Software Engineering Professional Practice                              |
+| 15. Software Engineering Economics                                          |
+| 16. Computing Foundations                                                   |
+| 17. Mathematical Foundations                                                |
+| 18. Engineering Foundations                                                 |
+
+Each KA have it own chapter in the guide, in which the KA is further broken down into sub topics. Each KA being described in only one chapter means that the depth of the material will be limited, but each KA comes with a list of generally accepted references that can be read to gain further knowledge.
