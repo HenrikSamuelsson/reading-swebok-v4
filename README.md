@@ -6,7 +6,9 @@ Notes on *Guide to the Software Engineering Body of Knowledge v4.0* (SWEBOK).
 
 The SWEBOK is a guide that defines the generally accepted practices, principles, and terminology within the field of software engineering. It supports education, professional development, best practices, and research, thereby contributing to the advancement and standardization of software engineering as a discipline.
 
-The guide comes in several versions. The notes here are based on SWEBOK v4.0, that was released in October 2024.
+The guide comes in several versions. The notes here are based on SWEBOK v4.0, that was released in October 2024. It can be downloaded for free from the IEEE Computer Society:
+
+[SWEBOK Version 4 - Download](https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4)
 
 ### Acronyms
 
@@ -17,7 +19,7 @@ The guide comes in several versions. The notes here are based on SWEBOK v4.0, th
 
 ### Knowledge Areas
 
-The content of the guide is split into 18 *knowledge areas* (KA), all being identified as being relevant to the field of software engineering.
+The content of the guide is split into 18 main parts and each part is refereed to  as a *knowledge area* (KA), all being identified as belonging to the field of software engineering.
 
 | The 18 SWEBOK KA's                                                          |
 | --------------------------------------------------------------------------- |
@@ -40,4 +42,4 @@ The content of the guide is split into 18 *knowledge areas* (KA), all being iden
 | 17. Mathematical Foundations                                                |
 | 18. Engineering Foundations                                                 |
 
-Each KA have it own chapter in the guide, in which the KA is further broken down into sub topics. Each KA being described in only one chapter means that the depth of the material will be limited, but each KA comes with a list of generally accepted references that can be read to gain further knowledge.
+Each KA have it own chapter in the guide, in which the KA is further broken down into sub parts. Each KA being described in only one chapter means that the depth of the material will be limited. But each KA comes with a list of generally accepted references that can be read to gain further knowledge.
